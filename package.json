@@ -19,7 +19,7 @@
     "@fastify/static": "^9.0.0",
     "@mercuryworkshop/bare-mux": "^2.1.8",
     "@mercuryworkshop/libcurl-transport": "^1.5.1",
-    "@mercuryworkshop/scramjet": "https://github.com/MercuryWorkshop/scramjet/releases/download/latest/mercuryworkshop-scramjet-2.0.0-alpha.tgz",
+    "@mercuryworkshop/scramjet": "file:./packages/mercuryworkshop-scramjet-2.0.2-alpha.tgz"
     "@mercuryworkshop/wisp-js": "^0.4.1",
     "@playform/compress": "^0.2.1",
     "@tailwindcss/vite": "^4.1.18",
